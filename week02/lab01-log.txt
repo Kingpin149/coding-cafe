@@ -1,0 +1,16 @@
+   79  deactivate
+   80  which python3
+   81  man ls
+   82  man ls
+   83  man man
+   84  cd 
+   85  cd ~
+   86  cd..
+   87  cd ..
+   88  ls
+   89  cd devarthtandan
+   90  ls
+   91  code
+   92  cd coding-cafe/
+   93  python3
+   94  python3
